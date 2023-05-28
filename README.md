@@ -4,8 +4,6 @@
 
 <img src="./images/backGround.jpg" width= "500px" height= "400px" title= "image">
 
-</img>
-
 # Any of my favorite tower images
 
 ###### images is no attribution required
