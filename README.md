@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="./images/backGround.jpg" width= "500px" height= "400px" title= "image"></img>
+<img src="./images/backGround.jpg" width= "500px" height= "400px" title= "image">
+
+</img>
 
 # Any of my favorite tower images
 
@@ -40,7 +42,7 @@
 
 # Achievements
 
-***그러나 실질적으로 성과나 인증을 받은 경력이 없다. 앞으로 채워가도록 노력할 것이다. ***
+***그러나 실질적으로 성과나 인증을 받은 경력이 없다. 앞으로 채워가도록 노력할 것이다.***
 
 ```python
 print('*\n')
